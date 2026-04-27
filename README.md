@@ -76,6 +76,9 @@
 
 | 프로젝트 | 한줄 소개 |
 |----------|-----------|
+| [hankkimoa](https://github.com/jen282/hankkimoa) | 가격 기반 음식점 추천 서비스 한끼모아 |
+| [AI-Taping-Service](https://github.com/PYongju/AI-Taping-Service) | AI 테이핑 서비스 |
+| [ms-project1](https://github.com/jen282/ms-project1) | MS AI School 1번째 프로젝트 |
 | [ms-frontend](https://github.com/jen282/ms-frontend) | 프론트엔드 실습 (HTML, CSS, JavaScript, React) |
 | [algorithm](https://github.com/jen282/algorithm) | 알고리즘 문제 풀이 |
 | [ms-open-ai](https://github.com/jen282/ms-open-ai) | Azure OpenAI API 실습 |
